@@ -4,6 +4,11 @@ A modern, full-featured note-taking application built with React and Node.js. Cr
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://note-app-route-academy.netlify.app/)
 [![GitHub](https://img.shields.io/badge/github-repo-blue)](https://github.com/Abdelrahman968/note-app-route)
+![React](https://img.shields.io/badge/React-19.2-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?logo=tailwind-css)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 ## ✨ Features
 
